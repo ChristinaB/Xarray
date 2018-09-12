@@ -24,6 +24,7 @@ dependencies:
   - datashader
   - netcdf4
   - zarr
+  - wget
   - numcodecs
   - python-blosc
   - lz4
