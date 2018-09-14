@@ -1,3 +1,3 @@
 # Xarray
 
-This repo includes xarray function for climate and/or topography data.
+This repo includes xarray function for file in and out.
